@@ -56,3 +56,4 @@ FILE MODES:
 ......................................................
 
 Back to github/git:
+Thank you Funmi for the quick learning. You are indeed a devops enginner in the making
